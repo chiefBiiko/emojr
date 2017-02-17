@@ -2,10 +2,10 @@
 #
 # Usage
 #   source('https://github.com/chiefBiiko/emojr/raw/master/faces.R')
-#   cat(AA$bird, AA$cat, sep='\n')  # pretty-print some
-#   cat(unlist(AA), sep='\n')  # pretty-print all
+#   cat(emojr$bird, emojr$cat, sep='\n')  # pretty-print some
+#   cat(unlist(emojr), sep='\n')  # pretty-print all
 
-AA <- list(
+emojr <- list(
   yo    = '(-*.*)',
   stun  = '(-*,*)',
   poker = '(-*_*)',
