@@ -3,7 +3,7 @@
 # Usage
 #   source('https://github.com/chiefBiiko/emojr/raw/master/faces.R')
 #   cat(emojr$bird, emojr$cat, sep='\n')  # pretty-print some
-#   cat(unlist(emojr), sep='\n')  # pretty-print all
+#   cat(unlist(emojr), fill=1, labels=names(emojr))  # pretty-print all + names
 
 emojr <- list(
   yo    = '(-*.*)',
