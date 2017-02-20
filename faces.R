@@ -23,11 +23,14 @@ emojr <- list(
   cool  = '(-#_#)',
   sleep = '(-u_u)',
   skull = '(-0..0)',
+  robot = '[-*_*]',
   bla   = '(-*c*)::',
   shout = '(-*o*):::',
   cat   = '=(-*x*)=',
   bird  = '<(-*v*)>',
-  teddy = '°(-*Y*)°',
-  snake = '__n_n_(-°w°)',
-  fish  = '>(-°-°)'
+  teddy = '\'(-*Y*)\'',
+  snake = '_n__n_(-\'w\')',
+  spidr = '_X(-\'w\')X_',
+  fish  = '>(-\'-\')',
+  ass   = '( Y )'
 )
